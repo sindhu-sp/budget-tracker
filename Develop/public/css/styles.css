@@ -1,0 +1,66 @@
+body {
+  font-size: 120%;
+  font-family: Arial;
+  background-color: rgb(203, 223, 230);
+}
+
+button, input {
+  font-size: 100%;
+  font-family: Arial;
+}
+
+table {
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.error {
+  color: red;
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 825px;
+  text-align: center;
+}
+
+.total {
+  font-size: 150%;
+  text-decoration: underline;
+}
+
+.form {
+  margin-top: 25px;
+  width: 100%;
+}
+
+.transactions {
+  text-align: left;
+  max-height: 300px;
+  overflow: auto;
+  width: 90%;
+  margin: 0 auto;
+}
+
+button {
+  background: rgb(38, 49, 97);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  color: #ffffff;
+  padding: 8px;
+  box-shadow: inset 0 -3px 0 0 #cac9d1;
+
+}
+.fund-button {
+  margin-top: 25px;
+}
