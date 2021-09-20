@@ -22,7 +22,7 @@ When the user reestablishes an internet connection, then the deposits or expense
 - Offline entries are added to the tracker when the application is brought back online.
 
 ### Web Manifest
--Since this will be a mobile-first application, it is also needed to add a web manifest to the application with the app’s metadata, to let the users’ devices know what they’re installing and how the app should look on the home screen.
+- Since this will be a mobile-first application, it is also needed to add a web manifest to the application with the app’s metadata, to let the users’ devices know what they’re installing and how the app should look on the home screen.
 
 - The manifest.json file for this project will contain the following properties:
  - name
