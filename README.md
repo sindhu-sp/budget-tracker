@@ -43,39 +43,10 @@ In the module project, you used webpack to create the manifest.json file. For th
 
 ## Demo
 
-### GET/api/users, GET/api/users/:id, GET/api/usthoughts, GET/api/thoughts/:id,
-<img src="./assets/GET.gif" alt="refresh page" height = 600 width= 600 />
-<br/>
-<br/>
-<br/>
-
-### POST/api/users, PUT/api/users/id, DELETE/api/id
-<img src="./assets/POST_PUT_DELETE_users.gif" alt="refresh page" height = 600 width= 600 />
-<br/>
-<br/>
-<br/>
-
-### POST/api/users/userID/friends/friendID, DELETE/api/users/userID/friends/friendID
-<img src="./assets/POST_DELETE_friends.gif" alt="refresh page" height = 600 width= 600 />
-<br/>
-<br/>
-<br/>
-
-### POST/api/thoughts, PUT/api/thoughts/id, DELETE/api/id
-<img src="./assets/POST_PUT_DELETE_thoughts.gif" alt="refresh page" height = 600 width= 600 />
-<br/>
-<br/>
-<br/>
-
-### POST/api/thoughts/thoughtId/reactions/, DELETE/api/thoughts/thoughtId/reactions/ 
-<img src="./assets/POST_DELETE_reactions.gif" alt="refresh page" height = 600 width= 600 />
-<br/>
-<br/>
-<br/>
 
 ## GitHub Link
+https://github.com/sindhu-sp/budget-tracker
  
- https://github.com/sindhu-sp/blog
 
 ## Technologies Used:
 - Mongoose
