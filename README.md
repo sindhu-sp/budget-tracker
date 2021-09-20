@@ -46,5 +46,8 @@ https://github.com/sindhu-sp/budget-tracker
 - Mongoose
 - Express
 - Javascript
+- Heroku
+- MongoDB Atlas
+- manifest.json
 
 #### Sindhu Pillai
