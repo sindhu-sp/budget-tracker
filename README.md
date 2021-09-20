@@ -1,7 +1,5 @@
 # budget-tracker
 
-# my_media_app
-
 ## User Story
 - As an avid traveler, the user wants to be able to track their withdrawals and deposits with or without a data/internet connection, so that their account balance is accurate when they are traveling.
 
