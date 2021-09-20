@@ -52,7 +52,7 @@ tr:nth-child(even) {
 }
 
 button {
-  background: rgb(38, 49, 97);
+  background: #3253e4;
   border: none;
   border-radius: 5px;
   cursor: pointer;

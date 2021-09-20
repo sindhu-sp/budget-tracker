@@ -35,7 +35,7 @@ function checkDatabase() {
   const transaction = db.transaction(['pending'], 'readwrite');
 
   // access your pending object store
-  const store = transaction.objectStore('new_pizza');
+  const store = transaction.objectStore('pending');
 
   // get all records from store and set to a variable
   const getAll = store.getAll();
